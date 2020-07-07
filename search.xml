@@ -12,4 +12,16 @@
         <tag>config</tag>
       </tags>
   </entry>
+  <entry>
+    <title>ssh-multi-accounts</title>
+    <url>/ssh/ssh-multi-accounts/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>ssh</category>
+      </categories>
+      <tags>
+        <tag>ssh</tag>
+        <tag>git</tag>
+      </tags>
+  </entry>
 </search>
